@@ -1,0 +1,13 @@
+Package: conanfr
+Type: Package
+Title: Helps with content analysis based on frequencies
+Version: 0.0.0.9001
+Author: "Abby Rinaldi <rinaldia@mail.usf.edu> [aut,cre]"
+Description: This package will allow users to do content analysis for research.
+    For those looking to search for frequencies in word usage, tone, or themes, this package will allow users to do analysis of coded data.
+    Users can import their coded data in spreadsheet format and then use the functions in this package to manipulate and analyze the variables in the data.
+    These functions allow users to layer and separate variables within the data for easier visualization and tabulation of results.
+    THIS PACKAGE REQUIRES GGPLOT2.
+License: CCO
+Encoding: UTF-8
+LazyData: true
