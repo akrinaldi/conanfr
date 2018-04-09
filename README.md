@@ -1,2 +1,2 @@
 # contentan
-This is a repository for the conanfr content analysis package.
+This is a repository for the contentan content analysis package.
