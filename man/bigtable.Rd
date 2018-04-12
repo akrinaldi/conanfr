@@ -16,9 +16,8 @@ A chart of the frequency values for each parameter together
 }
 \description{
 This is a function that allows a user make a table of the frequencies of
-two different variables within a dataset.
+two different variables within a dataset. Must have same number of rows.
 }
 \examples{
 bigtable(mtcars$mpg,mtcars$wt)
-Must have same number of rows
 }
